@@ -32,10 +32,13 @@ RAG_finGPT/
 ### Data Processing
 I have prepared a dataset by following the FinGPT Hugging face Hub. The dataset contains: 1. input, 2. Output and 3. instruction.
 It can be utilized as a prompt. The origin of the dataset is taken from Kaggle: 
-Dataset Link: 'https://www.kaggle.com/datasets/akouaorsot/fintech-stock-price-data'
-
+Dataset Link: 
 ```sh
-Kaggle Notebook: 'https://www.kaggle.com/code/biplabkumarsarkar/fintec-data?scriptVersionId=179957930'
+https://www.kaggle.com/datasets/akouaorsot/fintech-stock-price-data
+```
+Notebook Link: 
+```sh
+https://www.kaggle.com/code/biplabkumarsarkar/fintec-data?scriptVersionId=179957930
 ```
 
 
