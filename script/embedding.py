@@ -5,4 +5,3 @@ def get_embedding_function():
     embeddings = OllamaEmbeddings()
 
     return embeddings
-

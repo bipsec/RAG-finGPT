@@ -9,7 +9,7 @@ from langchain.vectorstores.chroma import Chroma
 from embedding import get_embedding_function
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "..\\data\\csv\\stock_price_fintech.csv"
+DATA_PATH = "../stock_price/data/csv/stock_price_fintech.csv"
 
 
 def main():
