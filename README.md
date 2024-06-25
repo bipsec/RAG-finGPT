@@ -15,6 +15,8 @@
 RAG_finGPT/
 │   ├── notebook/
 │   │   ├──fintech-data.ipynb/
+│   │   ├──FinGPT_Finetuning_Mistral_7B_fintech.ipynb/
+│   │   ├──FinGPT_Finetuning_Mistral_7B_sentiment_data.ipynb/
 │   ├── script/
 │   │   ├── chroma
 │   │   ├── embedding.py
