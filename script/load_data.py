@@ -71,6 +71,7 @@ def add_to_chroma(chunks: list[Document]):
         print("✅ No new documents to add")
 
 
+# for multiple page storing into db
 def calculate_chunk_ids(chunks):
     last_page_id = None
     current_chunk_index = 0
